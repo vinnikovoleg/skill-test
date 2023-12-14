@@ -6,6 +6,7 @@ using Business.Services.Interfaces;
 using DataAccess.Entities;
 using DataAccess.Repositories.Interfaces;
 using Moq;
+using Web.Mapping;
 
 namespace UnitTests;
 
